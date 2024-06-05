@@ -1,5 +1,6 @@
 # UserManagementAppliction
 Project Description
+
 This User Management Application is a simple web-based application built using Java, JSP (JavaServer Pages), Servlets, and MySQL. The application provides basic CRUD (Create, Read, Update, Delete) functionalities for managing users. It is developed using Eclipse IDE.
 
 Features
