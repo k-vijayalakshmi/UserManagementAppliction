@@ -35,9 +35,6 @@ CREATE TABLE users (
     country VARCHAR(100) NOT NULL,
     PRIMARY KEY (id)
 );
-Eclipse Project Setup
-Clone the repository:
-git clone https://github.com/yourusername/user-management-application.git
 
 Open Eclipse:
 Select File > Import.
